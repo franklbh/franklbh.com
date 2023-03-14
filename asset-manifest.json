@@ -1,16 +1,14 @@
 {
   "files": {
     "main.css": "/franklbh.com/static/css/main.eea0428c.css",
-    "main.js": "/franklbh.com/static/js/main.d61f6b90.js",
+    "main.js": "/franklbh.com/static/js/main.8fc2a512.js",
     "static/js/415.4d6acbeb.chunk.js": "/franklbh.com/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/franklbh.com/static/js/787.1ed0c42c.chunk.js",
-    "static/media/leaf.png": "/franklbh.com/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/sudoku.png": "/franklbh.com/static/media/sudoku.0fb6b35595d3982a5a08.png",
+    "static/media/geese.jpeg": "/franklbh.com/static/media/geese.41e088f5ab3b834341f0.jpeg",
     "static/media/emotion.png": "/franklbh.com/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/franklbh.com/static/media/suicide.9c86cd7138a398c45fa5.png",
     "static/media/selfie.jpeg": "/franklbh.com/static/media/selfie.42c94f6c1f553fc0dcdf.jpeg",
     "static/media/Franks_Resume.pdf": "/franklbh.com/static/media/Franks_Resume.495f409b2e5af953cab2.pdf",
-    "static/media/codeEditor.png": "/franklbh.com/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/blog.png": "/franklbh.com/static/media/blog.fb8ab7f271a937d5fc01.png",
     "static/media/home-main.svg": "/franklbh.com/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/chatify.png": "/franklbh.com/static/media/chatify.7206044e0b5cdad44726.png",
     "static/media/home-bg.jpg": "/franklbh.com/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
@@ -19,12 +17,12 @@
     "static/media/pre.svg": "/franklbh.com/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/franklbh.com/index.html",
     "main.eea0428c.css.map": "/franklbh.com/static/css/main.eea0428c.css.map",
-    "main.d61f6b90.js.map": "/franklbh.com/static/js/main.d61f6b90.js.map",
+    "main.8fc2a512.js.map": "/franklbh.com/static/js/main.8fc2a512.js.map",
     "415.4d6acbeb.chunk.js.map": "/franklbh.com/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/franklbh.com/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eea0428c.css",
-    "static/js/main.d61f6b90.js"
+    "static/js/main.8fc2a512.js"
   ]
 }
